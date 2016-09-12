@@ -1,4 +1,4 @@
-#Java设计模式之反复思考
+#Java的23种设计模式
 - **IDE:** IntelliJ IDEA 15.0.1
 - **Server:** Apache Tomcat 9.0.0.1M1
 - **DATABASE:** Mysql 5.6.7

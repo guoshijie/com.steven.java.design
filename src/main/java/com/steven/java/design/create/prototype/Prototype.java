@@ -64,5 +64,4 @@ public class Prototype implements Cloneable, Serializable {
         private static final long serialVersionUID = 1L;
     }
 
-
 }
