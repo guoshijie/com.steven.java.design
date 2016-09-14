@@ -98,6 +98,13 @@
 
 ![](http://dl.iteye.com/upload/attachment/0083/1193/a604fca8-e0c6-3e4e-b00a-49da21595b4e.jpg)
 
+### 7、装饰模式（Decorator）
+> 顾名思义，装饰模式就是给一个对象增加一些新的功能，而且是动态的，要求装饰对象和被装饰对象实现同一个接口，装饰对象持有被装饰对象的实例，关系图如下：
+
+![](http://dl.iteye.com/upload/attachment/0083/1195/e1b8b6a3-0150-31ae-8f77-7c3d888b6f80.jpg)
+
+### 8、代理模式（Proxy）
+
 ##Git开发规范
 + branch 分支规范：
 > master ：主分支，线上部署代码
