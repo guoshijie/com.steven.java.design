@@ -153,6 +153,9 @@
 
 ![](http://dl.iteye.com/upload/attachment/0083/1213/2319a2c3-7ebd-3ee3-b389-1548074ea9c6.jpg?_=250531375)
 
+### 14、模板方法模式（Template Method）
+
+
 
 
 ##Git开发规范
