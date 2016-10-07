@@ -219,7 +219,7 @@ User类统一接口，User1和User2分别是不同的对象，二者之间有关
 
 ![](http://dl.iteye.com/upload/attachment/0083/1231/c87e402e-a355-3761-9ce3-7978956ba475.jpg?_=3023236)
 
-Context类是一个上下文环境类，Plus和Minus分别是用来计算的实现
+Context类是一个上下文环境类，Plus和Minus分别是用来计算的实现.
  
 
 ##Git开发规范
