@@ -221,6 +221,7 @@ User类统一接口，User1和User2分别是不同的对象，二者之间有关
 
 Context类是一个上下文环境类，Plus和Minus分别是用来计算的实现.
  
+Thanks,over
 
 ##Git开发规范
 + branch 分支规范：
